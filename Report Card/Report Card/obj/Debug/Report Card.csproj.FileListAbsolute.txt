@@ -1,0 +1,7 @@
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Report Card\Report Card\bin\Debug\Report Card.exe.config
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Report Card\Report Card\bin\Debug\Report Card.exe
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Report Card\Report Card\bin\Debug\Report Card.pdb
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Report Card\Report Card\obj\Debug\Report Card.csprojResolveAssemblyReference.cache
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Report Card\Report Card\obj\Debug\Report Card.csproj.CoreCompileInputs.cache
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Report Card\Report Card\obj\Debug\Report Card.exe
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Report Card\Report Card\obj\Debug\Report Card.pdb
